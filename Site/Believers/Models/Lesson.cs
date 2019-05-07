@@ -12,3 +12,5 @@ namespace Believers.Models
         public string Password { get; set; }
     }
 }
+
+// var teacher = teacherService.Find(this.User.Id);                    
