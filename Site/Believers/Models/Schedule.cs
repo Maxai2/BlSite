@@ -1,6 +1,6 @@
 namespace Believers.Models
 {
-    public class Post
+    public class Schedule
     {
         
     }
